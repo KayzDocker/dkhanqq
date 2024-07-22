@@ -5,7 +5,7 @@ import os
 from colorama import Fore
 
 print("===========================================")
-print('Spam Discord - TunDyNguLoz')
+print('Spam Discord - by khang')
 print("===========================================\n")
 
 time.sleep(1)
